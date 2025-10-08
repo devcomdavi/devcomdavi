@@ -1,7 +1,7 @@
 ## Welcome, I'm devcomdavi 👋
 
-- 🔭 Currently interning at Compass Uol
-- 🌱 Studying automation with Automation Anywhere and BotCity with Python
+- 🔭 Open to Work
+- 🌱 Studying back-end with Java
 - 💫 I'm in the third period of the Internet Systems course at the Federal Institute of Paraíba
 - 📫 Contact me at email: davihmn6@gmail.com
 
