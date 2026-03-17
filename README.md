@@ -1,8 +1,9 @@
 ## Welcome, I'm devcomdavi 👋
 
 - 🔭 Open to Work
-- 🌱 Studying back-end with Java
-- 💫 I'm in the third period of the Internet Systems course at the Federal Institute of Paraíba
+- 🌱 Studying java and typescript
+- 🤖 Deepening knowledge in AI Agents (claude code)
+- 💫 I'm in the fourth period of the Internet Systems course at the Federal Institute of Paraíba
 - 📫 Contact me at email: davihmn6@gmail.com
 
   ###
